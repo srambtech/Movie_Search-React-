@@ -1,3 +1,20 @@
+.bar{
+  background-color: black;
+  color:#fff ;
+  padding-left: 16px;
+  display: block;
+}
+
+.search{
+  font-size:larger ;
+  width: 55%;
+  display: block;
+  padding-top:15px ;
+  padding-bottom: 10px;
+  padding-left: 16px;
+
+}
+
 .App {
   text-align: center;
 }
